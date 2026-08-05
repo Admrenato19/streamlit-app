@@ -1,5 +1,5 @@
 import streamlit as st
-
+impot pandas
 st.title("Meu primeiro app no iPhone 📱")
 st.write("Rodando Streamlit direto do celular 🚀")
 
